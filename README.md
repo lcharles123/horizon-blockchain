@@ -1,6 +1,6 @@
 # horizon-blockchain
 
-This is the latest blockchain file to the horizon criptocurrency, updated at 13 - Oct - 2016.
+This is the latest blockchain file for horizon criptocurrency plataform, updated on 13 - Oct - 2016.
 
 More info at
 
